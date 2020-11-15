@@ -1,0 +1,2 @@
+# CabeBit
+A Collaboration Bot
